@@ -1,6 +1,7 @@
 # Super Dot Game by Rohit Gupta
 This game is based on eye and finger coordination. You have to tap on dot on the screen as soon as possible make a high score and share with us tag me on instagram @rohit_gupta_indu
 
+<p float="left">
 
 <img src="https://user-images.githubusercontent.com/74013705/216656859-791720bb-61f9-49d1-bd47-12cd79f4deac.jpg" width="100">
                                                                                                                            
@@ -11,5 +12,7 @@ This game is based on eye and finger coordination. You have to tap on dot on the
 <img src="https://user-images.githubusercontent.com/74013705/216656937-049ab6cf-4728-4c92-be8c-1ec0f686755c.jpg" width="100">
 
 <img src="https://user-images.githubusercontent.com/74013705/216656948-13c77263-a663-4639-a209-7272b2d7798c.jpg" width="100">
+  
+</p>
 
 **these are the examples of the game make sure to play and share the experience**
